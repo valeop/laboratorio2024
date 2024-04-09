@@ -8,7 +8,7 @@ on:
   #Trigger the workflow on push from the main branch
   push:
     branches:
-      - main
+      - rama-lab2
 jobs:
   #Test's job
   tests:
